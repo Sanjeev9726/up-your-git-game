@@ -1,4 +1,4 @@
-> This project's steps can be found on the [article](https://dev.to/christopherkade/up-your-git-game-and-clean-up-your-history-4j3j) or down bellow. Hello
+> This project's steps can be found on the [article](https://dev.to/christopherkade/up-your-git-game-and-clean-up-your-history-4j3j) or down bellow. Hello Sanjeev
 
 This repository will help you understand how rebase works by actually using it ! Don't worry if you make any mistakes, this is a clean slate, you can always re-clone it if you mess up.
 
